@@ -1,3 +1,3 @@
-# python-multiprocessing
+# python-tricks
 
-Simple yet functional explanation of python 3 multiprocessing.
+Essential python tips and tricks for python programming.
